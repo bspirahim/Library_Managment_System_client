@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "category": "Arts & Music",
+        "image": "../public/images/category/romance-2.jpg"
+    },
+    {
+        "id": 2,
+        "category": "Biography",
+        "image": "../public/images/category/romance-2.jpg"
+    },
+    {
+        "id": 3,
+        "category":"Computer & Tech",
+        "image":"../public/images/category/romance-2.jpg" 
+    },
+    {
+        "id": 4,
+        "category":"History",
+        "image":"../public/images/category/romance-2.jpg" 
+    },
+    {
+        "id": 5,
+        "category":"Health & Fitness",
+        "image":"../public/images/category/romance-2.jpg" 
+    },
+    {
+        "id": 6,
+        "category":"Romance",
+        "image":"../public/images/category/romance-2.jpg"
+    },
+    {
+        "id": 7,
+        "category":"Arts & Music",
+        "image":"../public/images/category/romance-2.jpg"
+    },
+    {
+        "id": 8,
+        "category":"Arts & Music",
+        "image":"../public/images/category/romance-2.jpg"
+    },
+    {
+        "id": 9,
+        "category":"Arts & Music & music",
+        "image":"../public/images/category/romance-2.jpg"
+    }
+]

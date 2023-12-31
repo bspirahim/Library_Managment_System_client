@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaLock } from 'react-icons/fa';
 import { MdEmail } from 'react-icons/md';
 import { Link } from 'react-router-dom';
@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const Login = () => {
     return (
         <div className="bg-center bg-cover h-[100vh] bg-no-repeat object-fill"
-        style={{ backgroundImage: 'linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../../../public/images/login/login-4.jpg")' }}
+        style={{ backgroundImage: 'linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("/images/login/login-4.jpg")' }}
     >
         <div className="hero min-h-screen">
             <div className="hero-content border border-primary rounded-xl flex-col lg:flex-row-reverse">
